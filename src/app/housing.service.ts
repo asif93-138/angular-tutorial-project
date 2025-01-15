@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { HousingLocation } from './housing-location';
-import { promise } from 'protractor';
 
 @Injectable({
   providedIn: 'root'

@@ -3,7 +3,6 @@ import { CommonModule } from '@angular/common';
 import { HousingLocationComponent } from "../housing-location/housing-location.component";
 import { HousingLocation } from '../housing-location';
 import { HousingService } from '../housing.service';
-import { text } from 'stream/consumers';
 
 @Component({
   selector: 'app-home',
